@@ -5,7 +5,7 @@
 **and recongnising patterns of the data and making predictions on gven that** .
 
 ## Modules Used
-1] **Pandas  [pip install pandas]**
+> **Pandas  [pip install pandas]**
 
 2] **requests [pip install requests]**
 
