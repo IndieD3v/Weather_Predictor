@@ -3,7 +3,7 @@ from sklearn.tree import DecisionTreeClassifier
 import joblib
 
 # key and city name
-api_key = '2614f297dcb38dc102cd43dffbbce5b0'
+api_key = 'API KEY HERE'
 city_name = input("Enter City Name: ")
 
 # main url
