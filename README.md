@@ -1,5 +1,4 @@
-# Weather_Predictor using Machine Learning 
-# [REAL TIME]
+# Weather_Predictor using Machine Learning  [REAL TIME]
 
 **This is a predictor which predicts weather by reading the given input data**.
 
