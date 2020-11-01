@@ -5,7 +5,9 @@ and recongnising patterns of the data and making predictions on gven that
 
 ## Steps
 **To directly use .open** *weather_predictor.py file*
+
 **To make diff model follow the steps**
+
 > open *training_model.py* and make changes to the model.
 > after training. dump the model
 > and load it to the *weather_predictor.py* file by
