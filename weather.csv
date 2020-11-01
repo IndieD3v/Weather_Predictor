@@ -1,0 +1,11 @@
+temprature,humidity,speed,output
+299,30,1.0,sunny
+302,35,1.1,sunny
+304,36,1.5,sunny
+306,38,1.8,sunny
+308,43,2.4,cloudy
+310,45,2.8,cloudy
+312,48,3.3,cloudy
+314,50,3.8,rainy
+315,55,4.5,rainy
+316,58,4.9,rainy
