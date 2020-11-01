@@ -1,6 +1,7 @@
 # Weather_Predictor using Machine Learning [REAL TIME]
 
 This is a predictor which predicts weather by reading the given input data.
+
 and recongnising patterns of the data and making predictions on gven that .
 this is the most basic model for making predictions .
 
@@ -10,5 +11,5 @@ this is the most basic model for making predictions .
 3] Sklearn [pip install sklearn]
 4] Joblib [pip install joblib]
 
-## <a href='https://openweathermap.org/api'>Open Weather API </a> was used to ferch data.
+## <a href='https://openweathermap.org/api'>Open Weather API </a> was used to fetch data.
  
