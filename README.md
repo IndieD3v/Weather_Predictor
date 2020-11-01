@@ -4,7 +4,15 @@ This is a predictor which predicts weather by reading the given input data
 and recongnising patterns of the data and making predictions on gven that
 
 ## Steps
-To directly use open weathe_predictoe.py file
+**To directly use .open** *weather_predictor.py file*
+**To make diff model follow the steps**
+> open *training_model.py* and make changes to the model.
+> after training. dump the model
+> and load it to the *weather_predictor.py* file by
+```python
+joblib.load('trained_model.joblib')
+```
+
 ## Modules Used
 > **Pandas  [pip install pandas]**
 
