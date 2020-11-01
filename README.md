@@ -1,11 +1,11 @@
 # Weather_Predictor using Machine Learning  [REAL TIME]
 
 This is a predictor which predicts weather by reading the given input data
+
 and recongnising patterns of the data and making predictions on gven that
 
 ## Steps
 **To directly use .open** *weather_predictor.py file*
-
 **To make diff model follow the steps**
 
 > open *training_model.py* and make changes to the model.
